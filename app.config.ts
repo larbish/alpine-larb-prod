@@ -37,5 +37,11 @@ export default defineAppConfig({
     form: {
       successMessage: 'Message sent. Thank you!'
     }
+  },
+
+  nuxtIcon: {
+    aliases: {
+      key-138: ''
+    }
   }
 })
